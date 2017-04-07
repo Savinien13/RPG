@@ -1,0 +1,8 @@
+# Mission
+
+Chabli Adel :
+Programme le jeu sous c++ et SFML et impose les limites de programmation à son équipe.
+
+Condemitti Nicolas & Guegan Simon :
+S'occupe des calcules au niveau de l'équilibrage du jeu video ainsi que de la partie dite "RNG" (apparition des monstres et objets) ... 
+
