@@ -2,12 +2,12 @@
 
 Chef d'équipe et l'équipe
 ---
-Chabli Adel
-Condometti Nicolas
-Destree Gabriel
-Fontan Savinien
-Guegan Simon
-Viallon Marie
+Chabli Adel  
+Condometti Nicolas  
+Destree Gabriel  
+Fontan Savinien  
+Guegan Simon  
+Viallon Marie  
 
 A savoir
 ---
