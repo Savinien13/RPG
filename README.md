@@ -2,12 +2,12 @@
 
 Chef d'équipe et l'équipe
 ---
-Chabli Adel
-Condometti Nicolas
-Destree Gabriel
-Fontan Savinien
-Guegan Simon
-Viallon Marie
+Chabli Adel  
+Condometti Nicolas  
+Destree Gabriel  
+Fontan Savinien  
+Guegan Simon  
+Viallon Marie  
 
 A savoir
 ---
@@ -31,7 +31,7 @@ S'occupe de tous les textes présents sur le jeu.
 
 Destree Gabriel :  
 Travail en collaboration avec le programmeur, apporte sa très grande expertise et son expérience dans l'interface graphique SFML.  
-Secondaire : Cherche les bugs présents sur le jeu vidéo lors de face de test.  
+
 
 
 
